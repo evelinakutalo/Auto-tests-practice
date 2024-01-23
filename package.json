@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/evelinakutalo/Auto-tests-practice/issues"
   },
-  "homepage": "https://github.com/evelinakutalo/Auto-tests-practice#readme"
+  "homepage": "https://github.com/evelinakutalo/Auto-tests-practice#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.41.1"
+  }
 }
